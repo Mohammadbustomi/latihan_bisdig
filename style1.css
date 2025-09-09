@@ -1,1 +1,5 @@
-#page-container{ width: 760px;margin:auto;background:red;}
+#page-container{ width: 760px;margin:auto;background:rgb(88, 88, 88);}
+#header{background: gray;
+height: 150px;}
+#content {background:rgb(172, 172, 172);}
+#footer{background:rgb(218, 218, 218); height:66px;}
